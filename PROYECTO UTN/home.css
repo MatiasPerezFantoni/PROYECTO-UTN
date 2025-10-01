@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+.titulo{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+}
+.navbar{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    gap: 125px;
+    padding-bottom: 5px;
+}
+.lista{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: "Sansation", sans-serif;
+    font-style: normal;
+
+}
+.conteiner{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: auto;
+}
+.foto-portada{
+    width: 80%;
+    height: 33%;
+    margin-top: 0px;
+}
+.aside{
+    color: whitesmoke;
+    margin-left: 15px;
+    font-size: 20px;
+    padding: 15px;
+    border-top: solid;
+    border-right: solid;
+}
+
+.footer{
+    color: whitesmoke;
+    text-align: center;
+}

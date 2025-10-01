@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+.titulo{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+}
+.navbar{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    gap: 125px;
+    padding-bottom: 5px;
+    height: 8px;
+}
+.lista{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: "Sansation", sans-serif;
+    font-style: normal;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-top: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.titulo-2{
+    font-family: "Sansation", sans-serif;
+    font-style: normal;
+    color: whitesmoke;
+    text-align: center;
+}
+.formulario{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.tus-datos{
+width: 35%;
+}
+.mis-datos{
+width: 35%;
+}
+.input{
+    padding: 8px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: whitesmoke;
+}
+.reset{
+    padding: 9px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
+.lista{
+    color: whitesmoke;
+    list-style-type: none;
+    font-size: 25px;
+}
+.li{
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: solid;
+}
+.icono{
+    color: whitesmoke;
+}
+.mapa{
+    display: block;
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+.ig{
+    text-decoration: none;
+    color: whitesmoke;
+}

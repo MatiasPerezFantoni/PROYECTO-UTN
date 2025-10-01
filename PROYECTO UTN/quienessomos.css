@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+.titulo{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+}
+.navbar{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    gap: 125px;
+    padding-bottom: 5px;
+}
+.lista{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: "Sansation", sans-serif;
+    font-style: normal;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    max-width: 1000px;
+    margin-left: 50px;
+    padding-top: 30px;
+    padding-left: 90px;
+}
+.texto{
+    flex: 1;
+    color: whitesmoke;
+}
+.titulo-3{
+    color: whitesmoke;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Sansation", sans-serif;
+    font-style: normal;
+}
+.parrafo{
+    text-align: justify;
+    font-size: 20px;
+}
+.goku{
+    margin-top: 40px;
+    padding-top: 40px;
+    width: 450px;
+    height: 450px;
+    margin-left: 50px;
+}
